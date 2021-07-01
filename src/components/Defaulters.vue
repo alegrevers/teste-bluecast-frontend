@@ -4,7 +4,7 @@
       <router-link to="/">Home</router-link>
     </button>
     <button>
-      <router-link to="/clients">Inadimplentes</router-link>
+      <router-link to="/clients">Clientes</router-link>
     </button>
     <input type="text" v-model="search" placeholder="O que procura?">
     <table v-bind:clients = "clients">
