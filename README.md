@@ -1,24 +1,9 @@
 # teste-triyo
 
-## Project setup
-```
-yarn install
-```
+Para iniciar a aplicação basta fazer a clonagem do projeto e em seguida executar
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### `npm install`
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Feito isso, para iniciar o container execute
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### `npm run serve`
