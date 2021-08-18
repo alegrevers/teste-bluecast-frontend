@@ -1,4 +1,4 @@
-# teste-triyo
+# teste-bluecast
 
 Para iniciar a aplicação basta fazer a clonagem do projeto e em seguida acessar o diretório com o comando
 
