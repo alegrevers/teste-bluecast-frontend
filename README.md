@@ -10,4 +10,4 @@ Depois execute
 
 Feito isso, para iniciar o servidor execute
 
-### `npm run serve -- --port 8081`
+### `npm run serve`
